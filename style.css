@@ -5,3 +5,10 @@ body {
 * {
     box-sizing: border-box;
 }
+.img {
+position: absolute;
+width: 608px;
+height: 912.95px;
+left: 0px;
+top: -20.47px;
+}
