@@ -6,14 +6,15 @@ body {
     box-sizing: border-box;
 }
 .img {
-position: absolute;
+position: absolut;
 width: 608px;
 height: 912.95px;
 left: 0px;
 top: -20.47px;
 }
 button{
-    display: flex;
+display: flex;
+text-decoration: none;
 flex-direction: row;
 justify-content: space-between;
 align-items: center;
