@@ -13,5 +13,9 @@ left: 0px;
 top: -20.47px;
 }
 button{
-    
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
 }
