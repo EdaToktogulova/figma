@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
 }
 .img {
-position: absolut;
+position: a;
 width: 608px;
 height: 912.95px;
 left: 0px;
@@ -19,5 +19,4 @@ flex-direction: row;
 justify-content: space-between;
 align-items: center;
 padding: 0px;
-
 }
