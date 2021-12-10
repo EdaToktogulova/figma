@@ -31,6 +31,7 @@ height: 36px;
 left: 0px;
 top: 0px;
 background: white;
+color: #156963;
 }
 .button-nav2 {
   display: flex;
@@ -45,4 +46,5 @@ height: 36px;
 left: 111px;
 top: 0px;
 background: #156963;
+color: white;
 }
