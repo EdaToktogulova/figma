@@ -19,11 +19,10 @@ body {
   top: 40px;
 }
 .logo {
-  position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 0px;
-  top: 0px;
+}
+.logo2 {
+}
+.logo3 {
 }
 .button-nav {
   display: flex;
@@ -31,12 +30,15 @@ body {
   justify-content: center;
   align-items: center;
   padding: 8px 20px;
-
+  
   position: static;
   width: 111px;
   height: 36px;
   left: 0px;
   top: 0px;
+  
+  flex: none;
+  order: 1;
   background: white;
   color: #156963;
 }
@@ -52,6 +54,7 @@ body {
   height: 36px;
   left: 111px;
   top: 0px;
+  order: 1;
   background: #156963;
   color: white;
 }
