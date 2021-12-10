@@ -18,3 +18,9 @@ body {
   left: 56px;
   top: 40px;
 }
+.button-nav {
+  position: sticky;
+}
+.button-nav2 {
+  position: sticky;
+}
