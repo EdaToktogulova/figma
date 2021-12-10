@@ -18,6 +18,13 @@ body {
   left: 56px;
   top: 40px;
 }
+.logo {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 0px;
+  top: 0px;
+}
 .button-nav {
   display: flex;
   flex-direction: row;
