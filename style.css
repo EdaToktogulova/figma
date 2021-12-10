@@ -19,8 +19,29 @@ body {
   top: 40px;
 }
 .button-nav {
-  position: sticky;
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 20px;
+
+position: static;
+width: 111px;
+height: 36px;
+left: 0px;
+top: 0px;
+background: white;
 }
 .button-nav2 {
-  position: sticky;
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 20px;
+
+position: static;
+width: 111px;
+height: 36px;
+left: 111px;
+top: 0px;
 }
