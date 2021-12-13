@@ -37,6 +37,7 @@ body {
   left: 0px;
   top: 0px;
 
+  border: none;
   flex: none;
   order: 1;
   background: white;
