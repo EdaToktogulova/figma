@@ -115,16 +115,23 @@ body {
 }
 .work {
   position: absolute;
-width: 586px;
-height: 160px;
-left: 694px;
-top: 582px;
+  width: 586px;
+  height: 160px;
+  left: 694px;
+  top: 582px;
 }
 .logo {
- color: rgba(21, 105, 99, 1); 
-position: absolute;
-width: 213px;
-height: 83px;
-left: 694px;
-top: 619px;
+  color: rgba(21, 105, 99, 1);
+  position: absolute;
+  width: 213px;
+  height: 83px;
+  left: 694px;
+  top: 619px;
+}
+.logo2 {
+  position: absolute;
+  width: 222px;
+  height: 83px;
+  left: 1009px;
+  top: 621px;
 }
