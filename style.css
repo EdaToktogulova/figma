@@ -59,6 +59,9 @@ body {
   background: #156963;
   color: white;
 }
+.img {
+  position: absolute;
+}
 .wrapper {
   display: flex;
   position: absolute;
