@@ -66,5 +66,6 @@ body {
   padding: 0px;
 }
 .wrapper {
-  
+  display: flex;
+  padding: ;
 }
