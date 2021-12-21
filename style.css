@@ -129,12 +129,6 @@ body {
 [class^="col"] {
   padding: 0 0.5rem;
 }
-.col-1 {
-  flex: 0 0 8.333333%;
-}
-.col-2 {
-  flex: 0 0 16.666666%;
-}
 .col-3 {
   flex: 0 0 25%;
 }
