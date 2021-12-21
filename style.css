@@ -132,3 +132,13 @@ body {
 .col-3 {
   flex: 0 0 25%;
 }
+.main {
+position: absolute;
+width: 268px;
+height: 155px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+}
