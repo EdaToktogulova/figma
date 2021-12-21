@@ -115,3 +115,8 @@ body {
   flex-grow: 0;
   margin: 24px 0px;
 }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
